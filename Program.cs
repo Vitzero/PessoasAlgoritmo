@@ -1,0 +1,9 @@
+﻿
+using PessoasAlgoritmo;
+
+Start.startar();
+
+
+
+
+
